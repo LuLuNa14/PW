@@ -1,0 +1,38 @@
+#img{
+    background-repeat: no-repeat;
+   width: 50%;
+   height: 50%;
+   display: flex;
+   justify-content: center;
+   background-color: white;
+    
+}
+#tit{
+    font-family:monospace;
+    font-style: normal;
+    font-size: 29px;
+    display: flex;
+    justify-content: baseline;
+}
+#subtitulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+body{
+    background-color: #dcdcdc;
+}
+#infor{
+    font-size: 19px;
+}
+#hist{
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    font-size: 16px;
+}
